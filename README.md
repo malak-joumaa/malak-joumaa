@@ -5,13 +5,10 @@
 - 🚀 I'm always open to new learning experiences
 - 📚 Books are the best cheat code to life
 
-<br/>
-
 ### Connect With Me:
 
 <a href="https://www.linkedin.com/in/malak-joumaa-20429b213"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
- 
-<br/>
+
 
 ## Languages and Tools:
 
