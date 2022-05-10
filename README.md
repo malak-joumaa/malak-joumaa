@@ -1,9 +1,9 @@
 ### Hi there, I'm Malak👋
 
 ## I'm a Full Stack Web Developer to be!
-- 🌱 I’m on a shallow learning curve!
+- 🌱 I’m currently learning React and Nodejs
 - 🚀 I'm always open to new learning experiences
-- 📚 Books are the best cheat code to life
+- 📚 Books are the best cheat code to life!
 
 ### Connect With Me:
 
