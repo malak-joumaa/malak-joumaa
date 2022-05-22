@@ -1,7 +1,7 @@
 ### Hi there, I'm Malak👋
 
 ## I'm a Full Stack Web Developer to be!
-- 🌱 I'm currently studying Full Stack Web Development at SE Factory
+- 🌱 I'm currently studying Full Stack Web Development
 - 🚀 I'm always open to new learning experiences
 - 📚 Books are the best cheat code to life!
 
