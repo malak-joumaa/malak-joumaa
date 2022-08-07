@@ -1,9 +1,9 @@
 ### Hi there, I'm Malak👋
 
-## I'm a Full Stack Web Developer to be!
-- 🌱 I'm currently studying Full Stack Web Development
+## Junior Full Stack Web Developer
 - 🚀 I'm always open to new learning experiences
 - 📚 Books are the best cheat code to life!
+- ✨ You can dream about it, or you can work to make it happen
 
 ### Connect With Me:
 
